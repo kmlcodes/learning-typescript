@@ -1,0 +1,19 @@
+{
+  "name": "ts-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.3"
+  }
+}
