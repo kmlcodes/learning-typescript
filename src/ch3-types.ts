@@ -1,10 +1,4 @@
 /*-------------------------------------------------------------------- 
-This single file contains the codes written to practice Typescript.
-The material used to learn is a book named "Programming
-TypeScript"  by Boris Cherny.
- Each chapter is divided into sections indicated by comment block. 
--------------------------------------------------------------------- *
-/*-------------------------------------------------------------------- 
  TYPES
 -------------------------------------------------------------------- */
 //any
